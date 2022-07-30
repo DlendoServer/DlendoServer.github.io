@@ -1,0 +1,44 @@
+.MainBox {
+    margin-left: 25%;
+    margin-right: 25%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+    height: auto;
+    justify-content: center;
+    vertical-align: middle;
+    background: linear-gradient(45deg, #607d8b, #f7524d);
+    padding: 30px;
+    border-radius: 15px;
+    margin-top: 50px;
+    box-shadow: 6px 6px 0px 3px #607d8b2b;
+}
+
+.logo img {
+    width: 250px;
+}
+
+.logo {
+    margin-bottom: 29px;
+}
+
+.textAlert {
+    color: #fff;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    display: contents;
+}
+
+span.Code {
+    background: #fff;
+    padding: 6px;
+    border-radius: 19px;
+    color: #f4504b;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    box-shadow: 3px 4px 0px 1px #ffffff5c;
+}
